@@ -10,3 +10,7 @@ The message feature isn't a simple unit check and involves integration from mult
 2. Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not? For this question, assume the “max message length” feature prevents the user from typing more than 80 characters
 
 This is a simple check that does not require integration of the larger application. It is simply a logical test and tests the length of a single message.
+
+https://kylel1015.github.io/CSE110Lab5_Starter/expose.html
+
+https://kylel1015.github.io/CSE110Lab5_Starter/explore.html
